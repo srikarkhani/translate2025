@@ -1,0 +1,95 @@
+{
+    "general": {
+      "app_name": "GlobalConnect",
+      "welcome": "Welcome to GlobalConnect",
+      "loading": "Loading...",
+      "error": "An error occurred",
+      "retry": "Retry",
+      "cancel": "Cancel",
+      "save": "Save",
+      "delete": "Delete",
+      "edit": "Edit",
+      "close": "Close"
+    },
+    "auth": {
+      "sign_in": "Sign In",
+      "sign_up": "Sign Up",
+      "email": "Email Address",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "forgot_password": "Forgot Password?",
+      "reset_password": "Reset Password",
+      "remember_me": "Remember Me",
+      "login_success": "You have successfully logged in",
+      "logout": "Log Out",
+      "logout_confirmation": "Are you sure you want to log out?",
+      "invalid_credentials": "Invalid email or password"
+    },
+    "navigation": {
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "profile": "Profile",
+      "settings": "Settings",
+      "help": "Help & Support",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "user_profile": {
+      "personal_info": "Personal Information",
+      "name": "Full Name",
+      "username": "Username",
+      "bio": "Bio",
+      "location": "Location",
+      "website": "Website",
+      "phone": "Phone Number",
+      "language": "Preferred Language",
+      "timezone": "Timezone",
+      "profile_updated": "Your profile has been updated successfully"
+    },
+    "dashboard": {
+      "welcome_user": "Welcome, {username}!",
+      "stats": "Your Statistics",
+      "recent_activity": "Recent Activity",
+      "notifications": "Notifications",
+      "no_notifications": "You have no new notifications",
+      "view_all": "View All"
+    },
+    "settings": {
+      "account": "Account Settings",
+      "preferences": "Preferences",
+      "notifications": "Notification Settings",
+      "privacy": "Privacy & Security",
+      "theme": "Theme",
+      "dark_mode": "Dark Mode",
+      "light_mode": "Light Mode",
+      "system_default": "System Default"
+    },
+    "errors": {
+      "required_field": "This field is required",
+      "invalid_email": "Please enter a valid email address",
+      "password_mismatch": "Passwords do not match",
+      "min_length": "Must be at least {count} characters",
+      "max_length": "Must be less than {count} characters",
+      "server_error": "Server error. Please try again later",
+      "not_found": "The requested resource was not found",
+      "permission_denied": "You don't have permission to access this resource"
+    },
+    "time": {
+      "now": "Just now",
+      "minutes_ago": "{count} minute ago | {count} minutes ago",
+      "hours_ago": "{count} hour ago | {count} hours ago",
+      "days_ago": "{count} day ago | {count} days ago",
+      "date_format": "MMM DD, YYYY",
+      "time_format": "h:mm A"
+    },
+    "messaging": {
+      "new_message": "New Message",
+      "reply": "Reply",
+      "forward": "Forward",
+      "delete_conversation": "Delete Conversation",
+      "message_placeholder": "Type your message here...",
+      "send": "Send",
+      "no_messages": "No messages yet",
+      "start_conversation": "Start a new conversation"
+    }
+  }
